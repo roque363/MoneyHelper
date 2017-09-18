@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorIndigo50">#E8EAF6</color>
+    <color name="colorIndigo100">#C5CAE9</color>
+    <color name="colorIndigo200">#9FA8DA</color>
+    <color name="colorIndigo300">#7986CB</color>
+    <color name="colorIndigo400">#5C6BC0</color>
+    <color name="colorIndigo500">#3F51B5</color>
+
+    <color name="Mello1">#C0392B</color>
+    <color name="Mello2">#8E44AD</color>
+
+    <color name="Bighead1">#c94b4b</color>
+    <color name="Bighead2">#4b134f</color>
+
+    <color name="Hydrogen1">#667db6</color>
+    <color name="Hydrogen2">#0082c8</color>
+    <color name="Hydrogen3">#667db6</color>
+
+    <color name="Celestial1">#c33764</color>
+    <color name="Celestial2">#1d2671</color>
+
+    <color name="Frost1">#000428</color>
+    <color name="Frost2">#004e92</color>
+
+    <color name="Joomla1">#1e3c72</color>
+    <color name="Joomla2">#2a5298</color>
+
+    <color name="Verde">#96c93d</color>
+    <color name="Verde2">#4eb02a</color>
+
+</resources>

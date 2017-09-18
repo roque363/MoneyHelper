@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Money Helper</string>
+
+    <string name="contabilidad">Contabilidad de Ingresos / Egresos</string>
+    <string name="ahorro">Saldo Actual Ahorro</string>
+    <string name="credito">Saldo Actual Credito</string>
+    <string name="efectivo">Saldo Actual Efectivo</string>
+    <string name="proporcion">Proporcion Ingresos / Egresos</string>
+
+    <string name="registrar">Registrar Ingresos / Egresos</string>
+    <string name="monto">Monto</string>
+    <string name="rdIngreso">Ingreso</string>
+    <string name="rdEgreso">Egreso</string>
+    <string name="txtCredito">Tarjeta de credito</string>
+    <string name="txtAhorro">Ahorro</string>
+    <string name="txtEfectivo">Efectivo</string>
+    <string name="btnRegistrar">Registrar</string>
+
+    <string-array name="tipoCuenta">
+        <item>Tipo de cuenta</item>
+        <item>Credito</item>
+        <item>Ahorro</item>
+        <item>Efectivo</item>
+    </string-array>
+
+</resources>
