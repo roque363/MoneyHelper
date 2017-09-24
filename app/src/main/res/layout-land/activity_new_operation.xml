@@ -75,10 +75,9 @@
 
             <Button
                 android:id="@+id/btnRegistrar"
-                android:layout_width="match_parent"
+                android:layout_width="350dp"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="80dp"
-                android:layout_marginRight="80dp"
+                android:layout_gravity="center"
                 android:background="@color/Verde2"
                 android:onClick="guardarOperacion"
                 android:text="@string/btnRegistrar" />
